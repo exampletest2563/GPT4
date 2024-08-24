@@ -57,3 +57,17 @@ Marketing and selling courses for a digital IT self-paced academy targeting kids
 - **Adjustments:** Be ready to adjust your strategy based on what’s working and what’s not.
 
 By combining these strategies, you can effectively market and sell your digital IT self-paced courses to kids and their parents, ensuring sustained interest and engagement in your academy.
+
+The average price per month for IT courses for kids varies depending on the provider and the type of course. Here are some examples from different sources:
+
+1. **CodaKid**: Offers coding courses for kids with a subscription model that costs approximately $25 to $35 per month. These courses are self-paced and provide access to various coding languages and projects.
+
+2. **CodeWizardsHQ**: Charges around $149 per month for their live, instructor-led coding classes. These are more structured and provide direct interaction with instructors in a virtual classroom setting.
+
+3. **Tynker**: Provides different subscription options starting at $15 per month for access to coding courses and projects. Tynker offers both self-paced and guided learning paths for kids.
+
+4. **Kumon**: Although not specifically for IT, Kumon’s monthly fees range from $100 to $200 per subject, which can give an idea of what structured educational programs might cost [oai_citation:3,2024 Kumon Prices | How Much Does Kumon Cost?](https://tutors.com/costs/kumon-cost).
+
+The cost of IT courses can also vary based on the course's comprehensiveness, the technology used, and the level of instructor interaction. For example, private tutoring sessions or courses with more personalized attention typically cost more.
+
+Overall, you can expect to pay between $15 to $150 per month for IT courses for kids, with the variation depending on the structure and provider of the course [oai_citation:2,2024 Martial Arts Classes Cost (with Local Prices) // Lessons.com](https://lessons.com/costs/martial-arts-classes-cost) [oai_citation:1,How Much Do Piano Lessons Cost? (2024)](https://lessons.com/costs/piano-lessons-cost).
